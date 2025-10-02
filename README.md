@@ -1,5 +1,34 @@
 # 💫 About Me:
-Hi there 👋, I'm Finodya Yahdun<br>💻 Computer Engineering Student @ Diponegoro University<br>🌱 Passionate about Web Development, Backend Systems, and Databases<br><br>🚀 About Me<br>I'm a Computer Engineering student with a strong enthusiasm for digital technology and a commitment to driving innovation. I enjoy blending technical knowledge and creativity to build impactful solutions. My experience spans from designing intuitive web applications to managing reliable backend systems and databases.<br><br>🔧 What I'm Currently Working On<br>• Building web applications with React, Next.js, and Node.js<br>• Developing reliable backend services with Express.js and MongoDB<br>• Exploring IoT & Drone Systems integration with software<br><br>🤝 I'm Looking to Collaborate On<br>• Open-source projects in web development, backend engineering, or IoT systems<br>• Research projects involving AI, Computer Vision, or Automation<br><br>🙋 I'm Looking for Help With<br>• Best practices in scalable backend architecture<br>• Advanced cloud infrastructure (GCP, AWS, or Azure)<br><br>📚 I'm Currently Learning<br>• GraphQL & API development<br>• DevOps fundamentals (CI/CD, containerization, monitoring)<br>• Machine Learning basics for smart system development<br><br>💬 Ask Me About<br>• Web Development (React, Next.js, Node.js)<br>• Backend & Database Design (MongoDB, SQL)<br>• IoT Projects & Drone Systems 🚁<br><br>⚡ Fun Fact<br>I love turning ideas into projects whether it’s building apps, experimenting with IoT devices, or learning new frameworks. Outside of coding, I enjoy exploring creative projects that combine tech + innovation.<br><br>✨ "Code is not just about solving problems, but also about creating possibilities."
+# Hi there 👋, I'm Finodya Yahdun  
+
+💻 Computer Engineering Student @ Diponegoro University  
+🌱 Passionate about **Web Development, Backend Systems, and Databases**  
+
+---
+
+## 🚀 About Me  
+Enthusiastic about digital technology, I love combining **technical skills and creativity** to build impactful solutions. Experienced in **web apps, backend systems, and databases**, and always eager to explore **IoT & Drone projects**.  
+
+---
+
+## 🔧 What I Do  
+- Build apps with **React, Next.js, Node.js**  
+- Develop backends using **Express.js & MongoDB**  
+- Learn **GraphQL, DevOps, and Machine Learning**  
+
+---
+
+## 💬 Ask Me About  
+- **Web Development** & **Backend Systems**  
+- **Database Design**  
+- **IoT & Drone Systems** 🚁  
+
+---
+
+⚡ *Fun Fact:* I enjoy turning ideas into real projects, from apps to IoT experiments.  
+
+✨ *"Code is not just about solving problems, but also about creating possibilities."*  
+
 
 
 ## 🌐 Socials:
